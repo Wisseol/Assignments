@@ -1,5 +1,6 @@
 # Assignments
-This repository contains my assignment
+This repository contains my assignments
 
-[assignment week 6](https://github.com/Wisseol/Assignments/blob/master/assignment4%20NEW.ipynb)
-[assignment week 8](https://github.com/Wisseol/Assignments/blob/master/assignment5.ipynb)
+[Assignment week 6](https://github.com/Wisseol/Assignments/blob/master/assignment4%20NEW.ipynb)
+
+[Assignment week 8](https://github.com/Wisseol/Assignments/blob/master/assignment5.ipynb)
