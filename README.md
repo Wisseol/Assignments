@@ -7,4 +7,4 @@ This repository contains my assignments
 
 [final python assignment (resit)](https://github.com/Wisseol/Assignments/blob/master/Final_Assignment_Python_2.ipynb)
 
-
+[final R assignment (resit)](https://github.com/Wisseol/Assignments/blob/master/resit%20exam%20exercise.ipynb)
